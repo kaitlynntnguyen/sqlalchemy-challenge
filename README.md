@@ -9,6 +9,7 @@ In this section, I use Python and SQLAlchemy to do a basic climate analysis and 
 3. Link Python to the database by creating a SQLAlchemy session.
 
 4. Perform a precipitation analysis and a station analysis
+   
       Precipitation Analysis
         1. Find the most recent date in the dataset.
      2. Using that date, get the previous 12 months of precipitation data by querying the previous 12 months of data.
