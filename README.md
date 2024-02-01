@@ -33,7 +33,7 @@ These are the following routes:
       - Start at the homepage. 
       - List all the available routes.
       
-   2. '/api/v1.0/precipitation'
+   2. `/api/v1.0/precipitation`
       - Convert the query results from your precipitation analysis (i.e. retrieve only the last 12 months of data) to a dictionary using `date` as the key and `prcp` as the value.
       - Return the JSON representation of your dictionary.
 
